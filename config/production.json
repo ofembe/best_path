@@ -1,0 +1,14 @@
+{
+  "Mongo": {
+    "connection": "mongodb://localhost:27017/gis"
+  },
+  "Google": {
+    "host": "http://maps.googleapis.com/maps/api/distancematrix/json?"
+  },
+  "Redis": {
+    "port": 6379,
+    "host": "127.0.0.1",
+    "routesQueue": "routes",
+    "jobAttempts": 5
+  }
+}
