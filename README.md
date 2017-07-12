@@ -1,6 +1,5 @@
 # best_path
 API solution to traveling salesman problem with locations.
-This application is tested on node version 6.2.2
 
 HTTP endpoints:
 
